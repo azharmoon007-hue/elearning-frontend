@@ -91,12 +91,3 @@ npm run dev
 
 Application will be accessible at: `http://localhost:5173`
 
----
-
-## 🔑 Demo Credentials
-
-| Role | Email | Password |
-|---|---|---|
-| **Admin** | `admin@elearning.com` | `Admin@123` |
-| **Instructor** | `john.doe@elearning.com` | `Instructor@123` |
-| **Student** | `alice.smith@student.com` | `Student@123` |
